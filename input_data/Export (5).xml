@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<List xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <VoteParticipant>
+    <ParliamentNumber>40</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <DecisionEventDateTime>2008-11-24T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>1</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Address in Reply to the Speech from the Throne (subamendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>48</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>238</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>2</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Address in Reply</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>189</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>5</SittingNumber>
+  </VoteParticipant>
+</List>

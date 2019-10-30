@@ -1,0 +1,2418 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<List xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2007-10-18T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>1</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Address in Reply to the Speech from the Throne (subamendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>48</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>240</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>2</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Address in Reply</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>189</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>3</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2007-10-22T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>2</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Address in Reply to the Speech from the Throne (amendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>89</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>203</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>2</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Address in Reply</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>189</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>5</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2007-10-24T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>3</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Address in Reply to the Speech from the Throne</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>126</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>79</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>0</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Address in Reply</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>189</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>7</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2007-10-24T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>4</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Concurrence at report stage of Bill C-287, An Act respecting a National Peacekeepers' Day</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>290</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>0</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>0</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-287</BillNumberCode>
+    <SittingNumber>7</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2007-10-30T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>5</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Opposition Motion (Productivity and competitiveness)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>79</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>199</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>0</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Supply</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>53</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>11</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2007-10-30T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>6</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Opposition Motion (Federal spending power)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>49</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>229</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>0</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Supply</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>53</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>11</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2007-10-31T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>7</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Ways and Means motion No. 3</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>127</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>76</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>2</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Ways and means</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>54</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>12</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2007-11-14T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>8</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Opposition Motion (Manufacturing and forestry sectors)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>72</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>118</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>12</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Supply</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>53</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>16</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2007-11-14T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>9</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Ways and Means motion No. 4</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>161</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>92</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>12</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Ways and means</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>54</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>16</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2007-11-20T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>10</DecisionDivisionNumber>
+    <DecisionDivisionSubject>2nd reading of Bill C-3, An Act to amend the Immigration and Refugee Protection Act (certificate and special advocate) and to make a consequential amendment to another Act</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>226</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>30</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>8</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-3</BillNumberCode>
+    <SittingNumber>20</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2007-11-21T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>11</DecisionDivisionNumber>
+    <DecisionDivisionSubject>3rd reading and adoption of Bill C-287, An Act respecting a National Peacekeepers' Day</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>258</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>0</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>0</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-287</BillNumberCode>
+    <SittingNumber>21</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2007-11-21T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>12</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Bill C-284, An Act to amend the Canada Student Financial Assistance Act (Canada access grants) (report stage amendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>73</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>183</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>0</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Report Stage</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>9</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-284</BillNumberCode>
+    <SittingNumber>21</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2007-11-21T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>13</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Concurrence at report stage of Bill C-303, An Act to establish criteria and conditions in respect of funding for early learning and child care programs in order to ensure the quality, accessibility, universality and accountability of those programs, and to appoint a council to advise the Minister of Human Resources and Skills Development on matters relating to early learning and child care</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>138</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>112</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>0</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-303</BillNumberCode>
+    <SittingNumber>21</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2007-11-26T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>14</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Bill C-2, An Act to amend the Criminal Code and to make consequential amendments to other Acts (report stage amendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>22</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>202</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>0</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Report Stage</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>9</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-2</BillNumberCode>
+    <SittingNumber>24</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2007-11-26T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>15</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Concurrence at report stage of Bill C-2, An Act to amend the Criminal Code and to make consequential amendments to other Acts</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>221</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>1</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>0</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-2</BillNumberCode>
+    <SittingNumber>24</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2007-11-28T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>16</DecisionDivisionNumber>
+    <DecisionDivisionSubject>2nd reading of Bill C-426, An Act to amend the Canada Evidence Act (protection of journalistic sources and search warrants)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>147</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>117</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>0</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-426</BillNumberCode>
+    <SittingNumber>26</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2007-11-28T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>17</DecisionDivisionNumber>
+    <DecisionDivisionSubject>2nd reading of Bill C-357, An Act to amend the Employment Insurance Act (Employment Insurance Account and premium rate setting) and another Act in consequence</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>75</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>189</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>0</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-357</BillNumberCode>
+    <SittingNumber>26</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2007-11-28T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>18</DecisionDivisionNumber>
+    <DecisionDivisionSubject>2nd reading of Bill C-378, An Act to amend the Food and Drugs Act and the Food and Drug Regulations (drug export restrictions)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>116</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>143</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>0</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-378</BillNumberCode>
+    <SittingNumber>26</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2007-12-04T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>19</DecisionDivisionNumber>
+    <DecisionDivisionSubject>2nd reading of Bill C-28, An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2007 and to implement certain provisions of the economic statement tabled in Parliament on October 30, 2007</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>118</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>75</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>4</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-28</BillNumberCode>
+    <SittingNumber>30</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2007-12-05T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>20</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Private Members' Business M-315 (Canadian Charter of Rights and Freedoms)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>118</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>138</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>0</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Private Members' Motions</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>57</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>31</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2007-12-06T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>21</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Concurrence in estimates</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>214</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>25</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>16</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Supply</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>53</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>32</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2007-12-06T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>22</DecisionDivisionNumber>
+    <DecisionDivisionSubject>3rd reading and adoption of Bill C-35, An Act for granting to Her Majesty certain sums of money for the federal  public administration for the financial year ending March 31, 2008</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>213</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>25</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>16</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-35</BillNumberCode>
+    <SittingNumber>32</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2007-12-10T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>23</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Bill C-28, An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2007 and to implement certain provisions of the economic statement tabled in Parliament on October 30, 2007 (report stage amendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>28</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>156</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>14</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Report Stage</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>9</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-28</BillNumberCode>
+    <SittingNumber>34</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2007-12-10T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>24</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Concurrence at report stage of Bill C-28, An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2007 and to implement certain provisions of the economic statement tabled in Parliament on October 30, 2007</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>116</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>69</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>14</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-28</BillNumberCode>
+    <SittingNumber>34</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2007-12-11T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>25</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Motion to adjourn the debate</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>225</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>28</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>0</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Other</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>99</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>35</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2007-12-12T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>26</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Motion respecting the proceedings and business of the House or its committees</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>105</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>2</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>0</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Other</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>99</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>36</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2007-12-12T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>27</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Private Members' Business M-296 (First Nations children)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>262</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>0</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>0</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Private Members' Motions</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>57</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>36</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2007-12-12T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>28</DecisionDivisionNumber>
+    <DecisionDivisionSubject>2nd reading of Bill C-411, An Act to amend the Special Import Measures Act (domestic prices)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>68</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>184</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>0</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-411</BillNumberCode>
+    <SittingNumber>36</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2007-12-12T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>29</DecisionDivisionNumber>
+    <DecisionDivisionSubject>2nd reading of Bill C-251, An Act to amend the Food and Drugs Act (warning labels regarding the consumption of alcohol)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>91</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>163</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>0</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-251</BillNumberCode>
+    <SittingNumber>36</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2007-12-13T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>30</DecisionDivisionNumber>
+    <DecisionDivisionSubject>3rd reading and adoption of Bill C-28, An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2007 and to implement certain provisions of the economic statement tabled in Parliament on October 30, 2007</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>119</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>72</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>10</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-28</BillNumberCode>
+    <SittingNumber>37</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-01-30T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>31</DecisionDivisionNumber>
+    <DecisionDivisionSubject>3rd reading and adoption of Bill C-9, An Act to implement the Convention on the Settlement of Investment Disputes between States and Nationals of Other States (ICSID Convention)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>241</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>26</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>12</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-9</BillNumberCode>
+    <SittingNumber>40</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-02-04T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>32</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Bill C-3, An Act to amend the Immigration and Refugee Protection Act (certificate and special advocate) and to make a consequential amendment to another Act (report stage amendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>56</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>191</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>8</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Report Stage</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>9</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-3</BillNumberCode>
+    <SittingNumber>43</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-02-04T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>33</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Concurrence at report stage of Bill C-3, An Act to amend the Immigration and Refugee Protection Act (certificate and special advocate) and to make a consequential amendment to another Act</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>191</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>56</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>8</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-3</BillNumberCode>
+    <SittingNumber>43</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-02-05T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>34</DecisionDivisionNumber>
+    <DecisionDivisionSubject>2nd reading of Bill C-25, An Act to amend the Youth Criminal Justice Act (previous question)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>201</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>72</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>12</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-25</BillNumberCode>
+    <SittingNumber>44</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-02-05T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>35</DecisionDivisionNumber>
+    <DecisionDivisionSubject>2nd reading of Bill C-25, An Act to amend the Youth Criminal Justice Act</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>231</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>43</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>12</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-25</BillNumberCode>
+    <SittingNumber>44</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-02-05T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>36</DecisionDivisionNumber>
+    <DecisionDivisionSubject>First Report of the Standing Committee on Finance</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>154</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>119</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>12</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Routine Proceedings</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>58</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>44</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-02-06T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>37</DecisionDivisionNumber>
+    <DecisionDivisionSubject>3rd reading and adoption of Bill C-3, An Act to amend the Immigration and Refugee Protection Act (certificate and special advocate) and to make a consequential amendment to another Act (previous question)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>196</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>71</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>10</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-3</BillNumberCode>
+    <SittingNumber>45</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-02-06T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>38</DecisionDivisionNumber>
+    <DecisionDivisionSubject>3rd reading and adoption of Bill C-3, An Act to amend the Immigration and Refugee Protection Act (certificate and special advocate) and to make a consequential amendment to another Act</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>197</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>71</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>10</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-3</BillNumberCode>
+    <SittingNumber>45</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-02-06T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>39</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Private Members' Business M-411 (Death penalty)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>147</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>117</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>10</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Private Members' Motions</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>57</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>45</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-02-12T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>40</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Government Business No. 3 (Message regarding Bill C-2, An Act to amend the Criminal Code and to make consequential amendments to other Acts)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>172</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>27</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>2</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Government Business</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>55</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>49</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-02-13T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>41</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Bill C-20, An Act to provide for consultations with electors on their preferences for appointments to the Senate (referral to a committee before second reading)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>224</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>48</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>0</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-20</BillNumberCode>
+    <SittingNumber>50</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-02-13T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>42</DecisionDivisionNumber>
+    <DecisionDivisionSubject>2nd reading of Bill C-474, An Act to require the development and implementation of a Federal Sustainable Development Strategy and the development of goals and targets with respect to sustainable development in Canada, and to make consequential amendments to another Act</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>267</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>1</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>0</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-474</BillNumberCode>
+    <SittingNumber>50</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-02-28T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>43</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Budgetary policy (subamendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>45</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>230</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>8</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Ways and means</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>54</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>56</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-03-03T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>44</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Budgetary policy (amendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>7</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>202</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>2</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Ways and means</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>54</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>58</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-03-03T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>45</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Government Business No. 6 (Proposed appointment of Mr. Brian J. Saunders as the Director of Public Prosecutions)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>243</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>29</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>2</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Government Business</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>55</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>58</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-03-03T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>46</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Opposition Motion (Public inquiry into Mulroney-Schreiber affair)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>148</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>124</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>2</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Supply</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>53</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>58</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-03-04T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>47</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Budgetary policy</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>125</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>90</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>2</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Ways and means</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>54</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>59</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-03-05T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>48</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Opposition Motion (Income Tax Act)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>74</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>206</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>4</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Supply</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>53</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>60</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-03-05T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>49</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Second Report of the Standing Committee on Official Languages</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>158</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>123</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>4</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Routine Proceedings</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>58</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>60</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-03-05T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>50</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Second Report of the Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>281</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>0</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>4</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Routine Proceedings</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>58</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>60</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-03-05T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>51</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Fifth Report of the Standing Committee on Finance</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>280</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>1</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>4</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Routine Proceedings</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>58</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>60</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-03-05T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>52</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Bill C-253, An Act to amend the Income Tax Act (deductibility of RESP contributions) (report stage amendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>158</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>122</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>4</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Report Stage</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>9</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-253</BillNumberCode>
+    <SittingNumber>60</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-03-05T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>53</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Bill C-253, An Act to amend the Income Tax Act (deductibility of RESP contributions) (report stage subamendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>158</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>122</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>4</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Amendment to Report Stage Amendment</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>212</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-253</BillNumberCode>
+    <SittingNumber>60</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-03-05T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>54</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Bill C-253, An Act to amend the Income Tax Act (deductibility of RESP contributions) (report stage amendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>156</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>122</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>4</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Report Stage</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>9</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-253</BillNumberCode>
+    <SittingNumber>60</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-03-05T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>55</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Concurrence at report stage of Bill C-253, An Act to amend the Income Tax Act (deductibility of RESP contributions)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>156</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>122</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>4</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-253</BillNumberCode>
+    <SittingNumber>60</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-03-05T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>56</DecisionDivisionNumber>
+    <DecisionDivisionSubject>3rd reading and adoption of Bill C-253, An Act to amend the Income Tax Act (deductibility of RESP contributions)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>156</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>122</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>4</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-253</BillNumberCode>
+    <SittingNumber>60</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-03-05T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>57</DecisionDivisionNumber>
+    <DecisionDivisionSubject>2nd reading of Bill C-394, An Act to amend the Immigration and Refugee Protection Act (sponsorship of relative)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>99</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>177</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>4</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-394</BillNumberCode>
+    <SittingNumber>60</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-03-05T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>58</DecisionDivisionNumber>
+    <DecisionDivisionSubject>2nd reading of Bill C-484, An Act to amend the Criminal Code (injuring or causing the death of an unborn child while committing an offence)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>147</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>132</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>4</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-484</BillNumberCode>
+    <SittingNumber>60</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-03-05T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>59</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Private Members' Business M-383 (Old Age Security Program) (amendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>155</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>120</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>4</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Private Members' Motions</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>57</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>60</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-03-05T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>60</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Private Members' Business M-383 (Old Age Security Program)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>155</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>120</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>4</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Private Members' Motions</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>57</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>60</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-03-06T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>61</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Opposition Motion (Canadian women)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>57</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>167</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>18</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Supply</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>53</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>61</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-03-10T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>62</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Opposition Motion (Climate change)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>84</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>121</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>8</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Supply</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>53</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>63</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-03-11T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>63</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Opposition Motion (Securities Regulation)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>73</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>198</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>6</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Supply</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>53</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>64</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-03-12T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>64</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Opposition Motion (Death penalty)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>255</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>17</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>4</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Supply</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>53</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>65</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-03-12T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>65</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Concurrence in estimates</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>249</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>30</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>4</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Supply</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>53</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>65</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-03-12T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>66</DecisionDivisionNumber>
+    <DecisionDivisionSubject>2nd reading of Bill C-48, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 2008</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>250</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>30</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>4</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-48</BillNumberCode>
+    <SittingNumber>65</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-03-12T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>67</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Concurrence at report stage of Bill C-48, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 2008</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>250</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>30</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>4</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-48</BillNumberCode>
+    <SittingNumber>65</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-03-12T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>68</DecisionDivisionNumber>
+    <DecisionDivisionSubject>3rd reading and adoption of Bill C-48, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 2008</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>250</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>30</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>4</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-48</BillNumberCode>
+    <SittingNumber>65</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-03-12T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>69</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Concurrence in Interim Supply</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>171</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>37</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>4</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Supply</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>53</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>65</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-03-12T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>70</DecisionDivisionNumber>
+    <DecisionDivisionSubject>2nd reading of Bill C-49, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 2009</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>171</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>37</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>4</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-49</BillNumberCode>
+    <SittingNumber>65</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-03-12T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>71</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Concurrence at report stage of Bill C-49, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 2009</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>171</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>36</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>4</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-49</BillNumberCode>
+    <SittingNumber>65</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-03-12T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>72</DecisionDivisionNumber>
+    <DecisionDivisionSubject>3rd reading and adoption of Bill C-49, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 2009</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>171</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>37</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>4</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-49</BillNumberCode>
+    <SittingNumber>65</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-03-12T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>73</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Private Members' Business M-410 (Corporations conducting business in Sudan and Iran)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>227</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>46</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>4</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Private Members' Motions</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>57</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>65</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-03-13T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>74</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Ways and Means motion No. 10</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>124</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>87</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>4</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Ways and means</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>54</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>66</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-03-13T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>75</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Government Business No. 5 (Afghanistan mission) (amendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>29</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>244</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>4</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Government Business</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>55</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>66</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-03-13T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>76</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Government Business No. 5 (Afghanistan mission)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>197</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>77</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>4</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Government Business</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>55</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>66</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-03-31T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>77</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Opposition Motion (Economic vitality and prosperity)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>246</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>0</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>18</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Supply</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>53</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>68</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-04-01T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>78</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Opposition Motion (Compliance with the Charter of the French language regarding enterprises under federal jurisdiction located in Quebec)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>71</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>198</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>10</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Supply</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>53</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>69</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-04-02T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>79</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Opposition Motion (Corporate tax cuts)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>63</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>198</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>20</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Supply</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>53</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>70</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-04-02T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>80</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Private Members' Business M-310 (Flag at half-mast on the Peace Tower)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>142</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>115</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>20</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Private Members' Motions</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>57</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>70</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-04-08T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>81</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Opposition Motion (Special committee on the Canadian mission in Afghanistan)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>261</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>0</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>22</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Supply</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>53</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>74</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-04-08T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>82</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Third Report of the Standing Committee on the Status of Women</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>148</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>113</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>22</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Routine Proceedings</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>58</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>74</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-04-09T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>83</DecisionDivisionNumber>
+    <DecisionDivisionSubject>2nd reading of Bill C-50, An Act to implement certain provisions of the budget tabled in Parliament on February 26, 2008 and to enact provisions to preserve the fiscal plan set out in that budget (reasoned amendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>68</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>201</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>18</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-50</BillNumberCode>
+    <SittingNumber>75</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-04-09T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>84</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Bill S-203, An Act to amend the Criminal Code (cruelty to animals) (report stage amendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>62</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>193</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>18</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Report Stage</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>9</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>S-203</BillNumberCode>
+    <SittingNumber>75</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-04-09T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>85</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Bill S-203, An Act to amend the Criminal Code (cruelty to animals) (report stage amendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>65</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>189</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>18</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Report Stage</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>9</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>S-203</BillNumberCode>
+    <SittingNumber>75</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-04-09T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>86</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Concurrence at report stage of Bill S-203, An Act to amend the Criminal Code (cruelty to animals)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>189</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>70</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>18</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>S-203</BillNumberCode>
+    <SittingNumber>75</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-04-09T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>87</DecisionDivisionNumber>
+    <DecisionDivisionSubject>3rd reading and adoption of Bill S-203, An Act to amend the Criminal Code (cruelty to animals)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>189</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>70</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>18</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>S-203</BillNumberCode>
+    <SittingNumber>75</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-04-10T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>88</DecisionDivisionNumber>
+    <DecisionDivisionSubject>2nd reading of Bill C-50, An Act to implement certain provisions of the budget tabled in Parliament on February 26, 2008 and to enact provisions to preserve the fiscal plan set out in that budget (previous question)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>169</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>65</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>20</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-50</BillNumberCode>
+    <SittingNumber>76</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-04-10T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>89</DecisionDivisionNumber>
+    <DecisionDivisionSubject>2nd reading of Bill C-50, An Act to implement certain provisions of the budget tabled in Parliament on February 26, 2008 and to enact provisions to preserve the fiscal plan set out in that budget</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>113</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>76</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>20</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-50</BillNumberCode>
+    <SittingNumber>76</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-04-16T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>90</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Motion respecting Senate amendments to Bill C-13, An Act to amend the Criminal Code (criminal procedure, language of the accused, sentencing and other amendments) (amendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>104</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>134</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>32</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-13</BillNumberCode>
+    <SittingNumber>80</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-04-16T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>91</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Fifth Report of the Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>237</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>0</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>32</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Routine Proceedings</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>58</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>80</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-04-16T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>92</DecisionDivisionNumber>
+    <DecisionDivisionSubject>2nd reading of Bill C-26, An Act to amend the Controlled Drugs and Substances Act and to make consequential amendments to other Acts</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>213</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>24</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>32</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-26</BillNumberCode>
+    <SittingNumber>80</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-04-29T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>93</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Opposition Motion (Elections Canada)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>152</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>117</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>14</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Supply</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>53</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>84</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-05-01T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>94</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Bill C-33, An Act to amend the Canadian Environmental Protection Act, 1999 (report stage amendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>60</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>185</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>16</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Report Stage</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>9</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-33</BillNumberCode>
+    <SittingNumber>86</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-05-01T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>95</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Concurrence at report stage of Bill C-33, An Act to amend the Canadian Environmental Protection Act, 1999</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>222</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>23</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>16</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-33</BillNumberCode>
+    <SittingNumber>86</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-05-06T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>96</DecisionDivisionNumber>
+    <DecisionDivisionSubject>3rd reading and adoption of Bill C-23, An Act to amend the Canada Marine Act, the Canada Transportation Act, the Pilotage Act and other Acts in consequence</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>240</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>25</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>12</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-23</BillNumberCode>
+    <SittingNumber>89</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-05-06T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>97</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Bill C-5, An Act respecting civil liability and compensation for damage in case of a nuclear incident (report stage amendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>25</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>240</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>12</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Report Stage</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>9</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-5</BillNumberCode>
+    <SittingNumber>89</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-05-06T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>98</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Bill C-5, An Act respecting civil liability and compensation for damage in case of a nuclear incident (report stage amendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>25</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>240</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>12</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Report Stage</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>9</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-5</BillNumberCode>
+    <SittingNumber>89</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-05-06T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>99</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Bill C-5, An Act respecting civil liability and compensation for damage in case of a nuclear incident (report stage amendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>25</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>240</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>12</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Report Stage</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>9</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-5</BillNumberCode>
+    <SittingNumber>89</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-05-06T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>100</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Bill C-5, An Act respecting civil liability and compensation for damage in case of a nuclear incident (report stage amendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>25</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>240</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>12</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Report Stage</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>9</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-5</BillNumberCode>
+    <SittingNumber>89</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-05-06T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>101</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Bill C-5, An Act respecting civil liability and compensation for damage in case of a nuclear incident (report stage amendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>25</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>240</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>12</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Report Stage</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>9</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-5</BillNumberCode>
+    <SittingNumber>89</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-05-06T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>102</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Bill C-5, An Act respecting civil liability and compensation for damage in case of a nuclear incident (report stage amendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>25</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>240</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>12</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Report Stage</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>9</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-5</BillNumberCode>
+    <SittingNumber>89</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-05-06T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>103</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Bill C-5, An Act respecting civil liability and compensation for damage in case of a nuclear incident (report stage amendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>25</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>240</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>12</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Report Stage</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>9</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-5</BillNumberCode>
+    <SittingNumber>89</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-05-06T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>104</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Bill C-5, An Act respecting civil liability and compensation for damage in case of a nuclear incident (report stage amendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>25</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>240</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>12</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Report Stage</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>9</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-5</BillNumberCode>
+    <SittingNumber>89</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-05-06T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>105</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Concurrence at report stage of Bill C-5, An Act respecting civil liability and compensation for damage in case of a nuclear incident</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>240</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>25</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>12</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-5</BillNumberCode>
+    <SittingNumber>89</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-05-07T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>106</DecisionDivisionNumber>
+    <DecisionDivisionSubject>2nd reading of Bill C-517, An Act to amend the Food and Drugs Act (mandatory labelling for genetically modified foods)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>101</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>156</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>18</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-517</BillNumberCode>
+    <SittingNumber>90</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-05-07T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>107</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Seventh Report of the Standing Committee on Citizenship and Immigration</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>141</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>117</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>18</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Routine Proceedings</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>58</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>90</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-05-07T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>108</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Private Members' Business M-426 (Rare diseases and disorders)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>221</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>38</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>18</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Private Members' Motions</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>57</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>90</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-05-12T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>109</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Opposition Motion (Economic policy)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>89</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>109</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>14</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Supply</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>53</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>93</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-05-14T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>110</DecisionDivisionNumber>
+    <DecisionDivisionSubject>2nd reading of Bill C-482, An Act to amend the Official Languages Act (Charter of the French Language) and to make consequential amendments to other Acts</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>64</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>182</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>0</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-482</BillNumberCode>
+    <SittingNumber>95</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-05-15T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>111</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Motion to adjourn the debate</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>111</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>116</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>22</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Other</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>99</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>96</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-05-26T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>112</DecisionDivisionNumber>
+    <DecisionDivisionSubject>2nd reading of Bill C-34, An Act to give effect to the Tsawwassen First Nation Final Agreement and to make consequential amendments to other Acts</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>210</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>2</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>38</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-34</BillNumberCode>
+    <SittingNumber>98</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-05-27T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>113</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Bill C-33, An Act to amend the Canadian Environmental Protection Act, 1999 (recommittal to a committee)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>63</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>173</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>18</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-33</BillNumberCode>
+    <SittingNumber>99</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-05-28T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>114</DecisionDivisionNumber>
+    <DecisionDivisionSubject>3rd reading and adoption of Bill C-33, An Act to amend the Canadian Environmental Protection Act, 1999 (previous question)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>173</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>64</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>14</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-33</BillNumberCode>
+    <SittingNumber>100</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-05-28T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>115</DecisionDivisionNumber>
+    <DecisionDivisionSubject>3rd reading and adoption of Bill C-33, An Act to amend the Canadian Environmental Protection Act, 1999</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>173</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>64</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>14</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-33</BillNumberCode>
+    <SittingNumber>100</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-05-28T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>116</DecisionDivisionNumber>
+    <DecisionDivisionSubject>2nd reading of Bill C-55, An Act to implement the Free Trade Agreement between Canada and the States of the European Free Trade Association (Iceland, Liechtenstein, Norway, Switzerland), the Agreement on Agriculture between Canada and the Republic of Iceland, the Agreement on Agriculture between Canada and the Kingdom of Norway and the Agreement on Agriculture between Canada and the Swiss Confederation</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>200</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>21</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>14</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-55</BillNumberCode>
+    <SittingNumber>100</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-05-28T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>117</DecisionDivisionNumber>
+    <DecisionDivisionSubject>2nd reading of Bill C-445, An Act to amend the Income Tax Act (tax credit for loss of retirement income)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>133</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>98</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>14</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-445</BillNumberCode>
+    <SittingNumber>100</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-05-29T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>118</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Motion to proceed to Orders of the Day</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>97</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>121</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>20</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Other</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>99</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>101</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-02T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>119</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Bill C-50, An Act to implement certain provisions of the budget tabled in Parliament on February 26, 2008 and to enact provisions to preserve the fiscal plan set out in that budget (report stage amendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>83</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>114</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>14</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Report Stage</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>9</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-50</BillNumberCode>
+    <SittingNumber>103</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-02T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>120</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Bill C-50, An Act to implement certain provisions of the budget tabled in Parliament on February 26, 2008 and to enact provisions to preserve the fiscal plan set out in that budget (report stage amendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>83</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>114</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>14</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Report Stage</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>9</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-50</BillNumberCode>
+    <SittingNumber>103</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-02T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>121</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Concurrence at report stage of Bill C-50, An Act to implement certain provisions of the budget tabled in Parliament on February 26, 2008 and to enact provisions to preserve the fiscal plan set out in that budget</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>114</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>83</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>14</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-50</BillNumberCode>
+    <SittingNumber>103</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-03T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>122</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Third Report of the Standing Committee on Citizenship and Immigration</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>137</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>110</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>22</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Routine Proceedings</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>58</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>104</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-04T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>123</DecisionDivisionNumber>
+    <DecisionDivisionSubject>2nd reading of Bill C-393, An Act to amend the Criminal Code and the Corrections and Conditional Release Act (punishment and hearing)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>140</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>116</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>0</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-393</BillNumberCode>
+    <SittingNumber>105</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-04T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>124</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Bill C-377, An Act to ensure Canada assumes its responsibilities in preventing dangerous climate change (report stage amendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>148</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>115</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>0</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Report Stage</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>9</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-377</BillNumberCode>
+    <SittingNumber>105</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-04T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>125</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Bill C-377, An Act to ensure Canada assumes its responsibilities in preventing dangerous climate change (report stage amendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>148</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>115</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>0</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Report Stage</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>9</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-377</BillNumberCode>
+    <SittingNumber>105</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-04T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>126</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Bill C-377, An Act to ensure Canada assumes its responsibilities in preventing dangerous climate change (report stage amendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>148</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>115</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>0</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Report Stage</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>9</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-377</BillNumberCode>
+    <SittingNumber>105</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-04T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>127</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Bill C-377, An Act to ensure Canada assumes its responsibilities in preventing dangerous climate change (report stage amendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>148</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>115</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>0</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Report Stage</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>9</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-377</BillNumberCode>
+    <SittingNumber>105</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-04T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>128</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Concurrence at report stage of Bill C-377, An Act to ensure Canada assumes its responsibilities in preventing dangerous climate change</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>148</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>115</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>0</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-377</BillNumberCode>
+    <SittingNumber>105</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-04T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>129</DecisionDivisionNumber>
+    <DecisionDivisionSubject>3rd reading and adoption of Bill C-377, An Act to ensure Canada assumes its responsibilities in preventing dangerous climate change</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>148</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>116</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>0</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-377</BillNumberCode>
+    <SittingNumber>105</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-04T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>130</DecisionDivisionNumber>
+    <DecisionDivisionSubject>2nd reading of Bill C-490, An Act to amend the Old Age Security Act (application for supplement, retroactive payments and other amendments)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>149</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>115</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>0</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-490</BillNumberCode>
+    <SittingNumber>105</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-05T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>131</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Opposition Motion (Conflict of Interest Code for Members of the House of Commons)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>145</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>115</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>14</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Supply</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>53</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>106</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-05T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>132</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Concurrence in an opposed item</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>196</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>66</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>14</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Supply</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>53</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>106</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-05T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>133</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Concurrence in estimates</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>120</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>68</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>14</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Supply</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>53</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>106</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-05T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>134</DecisionDivisionNumber>
+    <DecisionDivisionSubject>2nd reading of Bill C-58, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 2009</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>120</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>68</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>14</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-58</BillNumberCode>
+    <SittingNumber>106</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-05T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>135</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Concurrence at report stage of Bill C-58, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 2009</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>120</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>68</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>14</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-58</BillNumberCode>
+    <SittingNumber>106</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-05T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>136</DecisionDivisionNumber>
+    <DecisionDivisionSubject>3rd reading and adoption of Bill C-58, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 2009</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>119</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>68</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>14</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-58</BillNumberCode>
+    <SittingNumber>106</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-05T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>137</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Concurrence in estimates</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>119</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>68</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>14</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Supply</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>53</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>106</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-05T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>138</DecisionDivisionNumber>
+    <DecisionDivisionSubject>2nd reading of Bill C-59, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 2009</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>119</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>68</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>14</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-59</BillNumberCode>
+    <SittingNumber>106</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-05T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>139</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Concurrence at report stage of Bill C-59, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 2009</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>180</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>69</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>14</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-59</BillNumberCode>
+    <SittingNumber>106</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-05T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>140</DecisionDivisionNumber>
+    <DecisionDivisionSubject>3rd reading and adoption of Bill C-59, An Act for granting to Her Majesty certain sums of money for the federal public administration for the financial year ending March 31, 2009</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>180</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>68</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>14</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-59</BillNumberCode>
+    <SittingNumber>106</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-09T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>141</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Government Business No. 8 (Extension of sitting hours in June)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>114</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>139</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>10</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Government Business</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>55</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>108</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-09T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>142</DecisionDivisionNumber>
+    <DecisionDivisionSubject>3rd reading and adoption of Bill C-50, An Act to implement certain provisions of the budget tabled in Parliament on February 26, 2008 and to enact provisions to preserve the fiscal plan set out in that budget</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>120</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>90</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>12</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-50</BillNumberCode>
+    <SittingNumber>108</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-10T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>143</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Motion to adjourn the debate</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>102</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>146</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>8</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Other</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>99</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>109</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-10T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>144</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Bill C-29, An Act to amend the Canada Elections Act (accountability with respect to loans) (report stage amendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>145</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>124</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>8</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Report Stage</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>9</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-29</BillNumberCode>
+    <SittingNumber>109</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-10T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>145</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Bill C-29, An Act to amend the Canada Elections Act (accountability with respect to loans) (report stage amendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>190</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>79</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>8</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Report Stage</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>9</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-29</BillNumberCode>
+    <SittingNumber>109</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-10T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>146</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Bill C-29, An Act to amend the Canada Elections Act (accountability with respect to loans) (report stage amendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>144</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>124</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>8</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Report Stage</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>9</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-29</BillNumberCode>
+    <SittingNumber>109</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-10T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>147</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Concurrence at report stage of Bill C-29, An Act to amend the Canada Elections Act (accountability with respect to loans)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>189</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>79</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>8</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-29</BillNumberCode>
+    <SittingNumber>109</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-10T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>148</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Sixth Report of the Standing Committee on Agriculture and Agri-Food</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>150</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>114</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>8</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Routine Proceedings</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>58</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>109</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-12T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>149</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Private Members' Business M-465 (Airline passenger bill of rights)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>249</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>0</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>0</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Private Members' Motions</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>57</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>111</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-12T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>150</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Bill C-207, An Act to amend the Income Tax Act (tax credit for new graduates working in designated regions) (report stage amendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>137</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>111</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>0</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Report Stage</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>9</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-207</BillNumberCode>
+    <SittingNumber>111</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-12T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>151</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Bill C-207, An Act to amend the Income Tax Act (tax credit for new graduates working in designated regions) (report stage subamendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>136</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>110</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>0</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Amendment to Report Stage Amendment</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>212</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-207</BillNumberCode>
+    <SittingNumber>111</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-12T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>152</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Bill C-207, An Act to amend the Income Tax Act (tax credit for new graduates working in designated regions) (report stage amendment)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>136</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>107</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>0</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Report Stage</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>9</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-207</BillNumberCode>
+    <SittingNumber>111</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-12T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>153</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Concurrence at report stage of Bill C-207, An Act to amend the Income Tax Act (tax credit for new graduates working in designated regions)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>135</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>107</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>0</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-207</BillNumberCode>
+    <SittingNumber>111</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-12T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>154</DecisionDivisionNumber>
+    <DecisionDivisionSubject>3rd reading and adoption of Bill C-207, An Act to amend the Income Tax Act (tax credit for new graduates working in designated regions)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>135</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>108</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>0</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-207</BillNumberCode>
+    <SittingNumber>111</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-12T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>155</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Eight Report of the Standing Committee on Environment and Sustainable Development</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>240</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>0</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>0</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Routine Proceedings</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>58</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>111</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-12T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>156</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Motion to adjourn the debate</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>108</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>121</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>10</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Other</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>99</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>111</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-17T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>157</DecisionDivisionNumber>
+    <DecisionDivisionSubject>3rd reading and adoption of Bill C-29, An Act to amend the Canada Elections Act (accountability with respect to loans)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>185</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>64</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>0</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-29</BillNumberCode>
+    <SittingNumber>114</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-18T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>158</DecisionDivisionNumber>
+    <DecisionDivisionSubject>2nd reading of Bill C-513, An Act to amend the National Defence Act (foreign military mission)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>65</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>174</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>8</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-513</BillNumberCode>
+    <SittingNumber>115</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-18T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Negatived</DecisionResultName>
+    <DecisionDivisionNumber>159</DecisionDivisionNumber>
+    <DecisionDivisionSubject>2nd reading of Bill C-505, An Act to amend the Canadian Multiculturalism Act (non-application in Quebec)</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>45</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>196</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>8</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Legislative Process</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>98</DecisionDivisionDocumentTypeId>
+    <BillNumberCode>C-505</BillNumberCode>
+    <SittingNumber>115</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-18T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>160</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Third Report of the Standing Committee on Public Safety and National Security</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>241</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>0</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>8</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Routine Proceedings</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>58</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>115</SittingNumber>
+  </VoteParticipant>
+  <VoteParticipant>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <DecisionEventDateTime>2008-06-19T00:00:00</DecisionEventDateTime>
+    <DecisionResultName>Agreed To</DecisionResultName>
+    <DecisionDivisionNumber>161</DecisionDivisionNumber>
+    <DecisionDivisionSubject>Motion to proceed to Orders of the Day</DecisionDivisionSubject>
+    <DecisionDivisionNumberOfYeas>95</DecisionDivisionNumberOfYeas>
+    <DecisionDivisionNumberOfNays>75</DecisionDivisionNumberOfNays>
+    <DecisionDivisionNumberOfPaired>10</DecisionDivisionNumberOfPaired>
+    <DecisionDivisionDocumentTypeName>Other</DecisionDivisionDocumentTypeName>
+    <DecisionDivisionDocumentTypeId>99</DecisionDivisionDocumentTypeId>
+    <BillNumberCode />
+    <SittingNumber>116</SittingNumber>
+  </VoteParticipant>
+</List>
