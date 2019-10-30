@@ -13,4 +13,4 @@ A defection is described as the case where the members of one party were split o
 A coalition is described as when the majority of two or more parties all vote Yea. For example, if the Conservatives vote Yea 50-49 and the Bloc votes Yea 20-10 then there will be a 1 in the Conservative-Bloc Coalition column. If the Greens also voted Yea 5-4 then the Green-Bloc Coalition and Conservative-Green Coalition columns will also have a 1. If the Liberals in this same vote voted Nay 85-84, then they would not count as a member of the coalition.
 
 ## Results
-![Results for Defections and Coalitions](./Defections\ and\ Coalitions\ in\ Parliament.png?raw=true "Defection and Coalitions in Parliament")
+![Results for Defections and Coalitions](./Defections\ and\ Coalitions\ in\ Parliament.png?raw=true)
